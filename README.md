@@ -1,1 +1,1 @@
-Esta desarrollado en React.js consiste en mostrar reviews de personas en el ambito de la informatica. Asimismo se puede ir pasando para ver a los otros integrantes y tiene una opcion que es la de surprise me que elige una persona al azar. 
+Esta desarrollado en React.js consiste en mostrar reviews de personas en el ambito de la informatica. Asimismo se puede ir pasando para ver a los otros integrantes y tiene una opcion que es la de surprise me que elige una persona random. 
